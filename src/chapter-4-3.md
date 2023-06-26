@@ -6,7 +6,7 @@ In this chapter, we will provide an introduction to ChatGPT and discuss the adva
 What is ChatGPT?
 ----------------
 
-ChatGPT is a natural language processing (NLP) model developed by OpenAI. It is based on the Generative Pre-trained Transformer 3 (GPT-3) architecture and uses deep learning techniques to generate human-like responses to text-based inputs.
+ChatGPT is a natural language processing (NLP) model developed by OpenAI. It is based on the Generative Pre-trained Transformer 3 (GPT-3.5) architecture and uses deep learning techniques to generate human-like responses to text-based inputs.
 
 By leveraging machine learning and NLP, ChatGPT can be trained to understand and respond to a wide range of user queries and requests, making it ideal for use in virtual fitness coaching.
 
