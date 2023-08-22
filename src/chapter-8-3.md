@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 Virtual fitness coaching with the assistance of chatbots and AI offers many benefits, such as personalized recommendations and support, increased efficiency and accessibility, and improved engagement and motivation. However, it also comes with its limitations and challenges, including the lack of personal interaction, limited equipment and space, and technological limitations.
 
