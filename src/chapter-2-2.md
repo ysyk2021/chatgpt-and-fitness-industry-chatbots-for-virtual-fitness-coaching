@@ -1,5 +1,4 @@
 
-
 Virtual fitness coaching has become increasingly popular in recent years, but its history and evolution can be traced back to the early development of technology. In this chapter, we will explore the history and evolution of virtual fitness coaching.
 
 Early Development of Technology

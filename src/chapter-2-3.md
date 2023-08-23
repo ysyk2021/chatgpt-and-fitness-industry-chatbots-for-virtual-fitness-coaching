@@ -1,5 +1,4 @@
 
-
 Virtual fitness coaching has become increasingly popular in recent years, offering clients the convenience of receiving coaching and guidance from the comfort of their own homes. In this chapter, we will explore the different types of virtual fitness coaching techniques used today.
 
 Technique 1: One-on-One Virtual Coaching

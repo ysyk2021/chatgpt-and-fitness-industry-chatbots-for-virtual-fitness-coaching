@@ -1,5 +1,4 @@
 
-
 Chatbots and AI are being used in various ways in the fitness industry to enhance the virtual fitness coaching experience. In this chapter, we will explore the different types of chatbots used in virtual fitness coaching.
 
 Rule-Based Chatbots

@@ -1,5 +1,4 @@
 
-
 Virtual fitness coaching is a growing trend in the fitness industry that allows clients to receive coaching and guidance from a coach or trainer through the use of technology, without the need for in-person interaction. This chapter will explore what virtual fitness coaching is, how it works, and its benefits.
 
 What is Virtual Fitness Coaching?
