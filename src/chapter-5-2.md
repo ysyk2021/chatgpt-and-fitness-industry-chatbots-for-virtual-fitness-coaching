@@ -1,5 +1,4 @@
-Chapter 8: Personalization Techniques Used in ChatGPT for Virtual Fitness Coaching
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalization is a key aspect of virtual fitness coaching, and ChatGPT utilizes various techniques to provide tailored and customized experiences for users. This chapter explores the personalization techniques employed by ChatGPT to enhance virtual fitness coaching interactions and support users' individual goals.
 

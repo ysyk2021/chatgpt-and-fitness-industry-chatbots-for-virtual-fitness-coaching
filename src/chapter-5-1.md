@@ -1,5 +1,4 @@
-Chapter 10: How ChatGPT Works in Virtual Fitness Coaching
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced natural language processing model, plays a crucial role in virtual fitness coaching. By leveraging its capabilities, fitness businesses can provide personalized and interactive coaching experiences to users. This chapter explores how ChatGPT works in the context of virtual fitness coaching, highlighting its key components and functionalities.
 

@@ -1,5 +1,4 @@
-Chapter 3: Types of Virtual Fitness Coaching Techniques Used Today
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Virtual fitness coaching has evolved significantly with the advent of technology, offering a wide range of techniques to facilitate remote fitness guidance and support. In this chapter, we explore some of the most commonly used virtual fitness coaching techniques in the industry today.
 

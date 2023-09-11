@@ -1,5 +1,4 @@
-Chapter 14: An Overview of Chatbots and AI in Fitness Management
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of chatbots and AI in fitness management. These technologies have revolutionized the way fitness is approached, enabling personalized coaching, data-driven insights, and enhanced user experiences.
 

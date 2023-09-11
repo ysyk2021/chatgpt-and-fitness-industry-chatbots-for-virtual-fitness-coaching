@@ -1,5 +1,4 @@
-Chapter 3: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a powerful language model that brings several key features to the realm of virtual fitness coaching. In this chapter, we explore the various capabilities and functionalities that ChatGPT offers, enhancing the overall user experience.
 

@@ -1,5 +1,4 @@
-Chapter 3: Planning and Designing ChatGPT for Virtual Fitness Coaching
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Planning and designing ChatGPT for virtual fitness coaching is a crucial step in developing an effective and user-friendly chatbot. This chapter explores the key considerations and best practices for planning and designing ChatGPT in the context of the fitness industry.
 

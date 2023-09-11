@@ -1,5 +1,4 @@
-Chapter 2: What is Virtual Fitness Coaching?
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Virtual fitness coaching has emerged as an innovative approach to provide personalized fitness guidance and support remotely. In this chapter, we explore the concept of virtual fitness coaching, its benefits, and how it has transformed the fitness industry.
 

@@ -1,5 +1,4 @@
-Chapter 11: Types of Chatbots Used in Virtual Fitness Coaching
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots play a significant role in virtual fitness coaching, enabling personalized and interactive experiences for users. In this chapter, we explore the various types of chatbots commonly used in the fitness industry. Each type offers unique functionalities and benefits, catering to different coaching needs and user preferences.
 

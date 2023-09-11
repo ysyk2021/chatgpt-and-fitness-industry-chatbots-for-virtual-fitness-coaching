@@ -1,5 +1,4 @@
-Chapter 13: Advantages of Using Chatbots and AI in Virtual Fitness Coaching
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous advantages of using chatbots and AI in virtual fitness coaching. These technologies have revolutionized the way fitness coaching is delivered, enabling personalized, interactive, and efficient experiences for users.
 

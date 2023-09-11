@@ -1,5 +1,4 @@
-Chapter 7: Emerging Trends in Chatbots and AI in Virtual Fitness Coaching
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of virtual fitness coaching, chatbots and AI technologies like ChatGPT are driving innovative solutions. This chapter explores emerging trends that are shaping the future of virtual fitness coaching and revolutionizing the way individuals engage with their fitness goals.
 

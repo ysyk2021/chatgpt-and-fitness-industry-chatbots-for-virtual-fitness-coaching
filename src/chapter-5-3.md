@@ -1,5 +1,4 @@
-Chapter 6: How ChatGPT Uses Data to Improve Virtual Fitness Coaching
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by OpenAI's advanced language model, relies on data to enhance virtual fitness coaching experiences. In this chapter, we delve into how ChatGPT leverages data to improve its functionality, accuracy, and effectiveness in the fitness industry.
 

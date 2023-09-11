@@ -1,5 +1,4 @@
-Chapter 5: Limitations and Challenges of Virtual Fitness Coaching
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While virtual fitness coaching powered by ChatGPT offers numerous advantages, it is essential to understand the limitations and challenges associated with this approach. In this chapter, we explore the key considerations that arise when implementing virtual fitness coaching using ChatGPT.
 

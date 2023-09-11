@@ -1,5 +1,4 @@
-Chapter 6: Integration with Existing Virtual Fitness Coaching Systems
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT with existing virtual fitness coaching systems can enhance the personalization and effectiveness of virtual fitness coaching services. This chapter explores the benefits and considerations of integrating ChatGPT with existing virtual fitness coaching systems.
 

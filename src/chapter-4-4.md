@@ -1,5 +1,4 @@
-Chapter 5: Case Studies on ChatGPT in Virtual Fitness Coaching
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by OpenAI's advanced language model, has gained popularity in various industries, including virtual fitness coaching. In this chapter, we explore several case studies that showcase the effectiveness and practical applications of ChatGPT in the fitness industry.
 

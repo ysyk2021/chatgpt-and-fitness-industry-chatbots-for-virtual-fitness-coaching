@@ -1,5 +1,4 @@
-Chapter 4: Advantages of Using ChatGPT in Virtual Fitness Coaching
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers numerous advantages when applied to virtual fitness coaching, revolutionizing the way users interact with fitness chatbots. In this chapter, we explore the key benefits of incorporating ChatGPT into virtual fitness coaching platforms.
 

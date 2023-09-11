@@ -1,5 +1,4 @@
-Chapter 9: Challenges and Limitations of Using Chatbots in Virtual Fitness Coaching
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While chatbots offer numerous benefits in virtual fitness coaching, it is important to acknowledge the challenges and limitations associated with their use. This chapter explores the obstacles and constraints that arise when utilizing chatbots in the fitness industry, focusing on areas that require attention and further development.
 

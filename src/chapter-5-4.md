@@ -1,5 +1,4 @@
-Chapter 12: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Virtual Fitness Coaching
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine real-world case studies that highlight the effectiveness of ChatGPT in enhancing virtual fitness coaching experiences. These case studies demonstrate how ChatGPT has contributed to improved user engagement, personalization, and overall coaching outcomes.
 

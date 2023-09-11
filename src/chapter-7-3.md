@@ -1,5 +1,4 @@
-Chapter 10: Opportunities and Challenges in Chatbots and AI in Virtual Fitness Coaching
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of chatbots and AI technologies into virtual fitness coaching presents both exciting opportunities and unique challenges. This chapter explores the potential advantages and obstacles associated with leveraging chatbots and AI in the fitness industry, highlighting the transformative impact they can have while acknowledging the areas that require attention and careful consideration.
 

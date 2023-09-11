@@ -1,5 +1,4 @@
-Chapter 6: Evaluating ChatGPT's Performance and Effectiveness in Virtual Fitness Coaching
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of ChatGPT in virtual fitness coaching is crucial to ensure its ability to deliver accurate, reliable, and helpful guidance. In this chapter, we discuss the key factors and metrics that can be used to assess ChatGPT's performance in the context of virtual fitness coaching.
 
